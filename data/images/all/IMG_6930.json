@@ -1,0 +1,98 @@
+{
+  "version": "6.1.3",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "diseased_leaf",
+      "points": [
+        [
+          1380.4615384615386,
+          2336.769230769231
+        ],
+        [
+          2626.6153846153848,
+          5075.2307692307695
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "healthy_stem",
+      "points": [
+        [
+          1442.0,
+          1106.0000000000002
+        ],
+        [
+          2203.538461538462,
+          1813.6923076923078
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "healthy_stem",
+      "points": [
+        [
+          2557.3846153846152,
+          1567.538461538462
+        ],
+        [
+          2303.8122171945706,
+          0.0
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "healthy_stem",
+      "points": [
+        [
+          2418.923076923077,
+          1536.769230769231
+        ],
+        [
+          2088.1538461538466,
+          1944.4615384615388
+        ],
+        [
+          1980.461538461538,
+          2352.153846153846
+        ],
+        [
+          2065.076923076923,
+          2390.6153846153848
+        ],
+        [
+          2257.3846153846152,
+          1913.6923076923078
+        ],
+        [
+          2588.1538461538466,
+          1621.3846153846157
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "polygon",
+      "flags": {},
+      "mask": null
+    }
+  ],
+  "imagePath": "IMG_6930.jpg",
+  "imageData": null,
+  "imageHeight": 5712,
+  "imageWidth": 4284
+}

@@ -1,0 +1,46 @@
+{
+  "version": "6.1.3",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "diseased_leaf",
+      "points": [
+        [
+          863.4285714285716,
+          1370.2857142857144
+        ],
+        [
+          2713.428571428571,
+          5706.0
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "healthy_stem",
+      "points": [
+        [
+          1842.0,
+          6.000000000000227
+        ],
+        [
+          2142.0000000000005,
+          1441.7142857142858
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    }
+  ],
+  "imagePath": "IMG_7578.jpg",
+  "imageData": null,
+  "imageHeight": 5712,
+  "imageWidth": 4284
+}

@@ -1,0 +1,186 @@
+{
+  "version": "6.1.3",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "diseased_leaf",
+      "points": [
+        [
+          1872.7692307692305,
+          409.8461538461541
+        ],
+        [
+          2665.076923076923,
+          2809.846153846154
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "diseased_leaf",
+      "points": [
+        [
+          2434.3076923076924,
+          1971.3846153846157
+        ],
+        [
+          3380.461538461538,
+          2794.4615384615386
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "diseased_leaf",
+      "points": [
+        [
+          2672.7692307692305,
+          2425.230769230769
+        ],
+        [
+          4284.0,
+          3108.565247252747
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "diseased_leaf",
+      "points": [
+        [
+          2442.0,
+          2963.6923076923076
+        ],
+        [
+          4284.0,
+          4189.1861852433285
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "diseased_leaf",
+      "points": [
+        [
+          226.61538461538476,
+          2725.230769230769
+        ],
+        [
+          2149.6923076923076,
+          3309.846153846154
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "diseased_leaf",
+      "points": [
+        [
+          3026.6153846153848,
+          771.3846153846156
+        ],
+        [
+          3872.7692307692305,
+          2179.076923076923
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "diseased_leaf",
+      "points": [
+        [
+          2072.7692307692305,
+          3040.6153846153848
+        ],
+        [
+          1418.9230769230771,
+          3540.6153846153848
+        ],
+        [
+          1111.2307692307695,
+          4248.307692307692
+        ],
+        [
+          980.4615384615386,
+          5086.7692307692305
+        ],
+        [
+          865.0769230769233,
+          5463.692307692308
+        ],
+        [
+          1018.9230769230771,
+          5525.2307692307695
+        ],
+        [
+          1295.8461538461538,
+          5256.0
+        ],
+        [
+          1926.6153846153848,
+          4540.615384615385
+        ],
+        [
+          2188.1538461538466,
+          3809.846153846154
+        ],
+        [
+          2234.3076923076924,
+          3256.0
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "polygon",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "diseased_leaf",
+      "points": [
+        [
+          372.76923076923094,
+          2002.1538461538464
+        ],
+        [
+          2072.7692307692305,
+          2840.6153846153848
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    }
+  ],
+  "imagePath": "IMG_7624.jpg",
+  "imageData": null,
+  "imageHeight": 5712,
+  "imageWidth": 4284
+}

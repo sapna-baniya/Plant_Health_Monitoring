@@ -1,0 +1,134 @@
+{
+  "version": "6.1.3",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "diseased_leaf",
+      "points": [
+        [
+          2180.461538461538,
+          2932.9230769230767
+        ],
+        [
+          2880.461538461538,
+          5125.2307692307695
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "healthy_leaf",
+      "points": [
+        [
+          65.07692307692332,
+          2671.3846153846152
+        ],
+        [
+          2242.0,
+          3379.076923076923
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "diseased_leaf",
+      "points": [
+        [
+          2811.2307692307695,
+          2509.846153846154
+        ],
+        [
+          4284.0,
+          3382.3397739701054
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "diseased_leaf",
+      "points": [
+        [
+          1765.0769230769229,
+          2.1538461538463807
+        ],
+        [
+          2557.3846153846152,
+          1171.3846153846157
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "healthy_leaf",
+      "points": [
+        [
+          2326.6153846153848,
+          663.6923076923078
+        ],
+        [
+          3449.6923076923076,
+          1425.2307692307695
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "healthy_stem",
+      "points": [
+        [
+          1403.5384615384614,
+          1602.1538461538464
+        ],
+        [
+          1595.8461538461538,
+          1571.3846153846157
+        ],
+        [
+          1934.3076923076924,
+          1202.1538461538464
+        ],
+        [
+          1888.1538461538466,
+          1471.3846153846157
+        ],
+        [
+          1634.3076923076924,
+          1725.2307692307695
+        ],
+        [
+          1226.6153846153848,
+          1779.0769230769233
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "polygon",
+      "flags": {},
+      "mask": null
+    }
+  ],
+  "imagePath": "IMG_7622.jpg",
+  "imageData": null,
+  "imageHeight": 5712,
+  "imageWidth": 4284
+}

@@ -1,0 +1,82 @@
+{
+  "version": "6.1.3",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "diseased_leaf",
+      "points": [
+        [
+          1572.769230769231,
+          2079.076923076923
+        ],
+        [
+          3411.2307692307695,
+          4817.538461538462
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "healthy_leaf",
+      "points": [
+        [
+          418.92307692307713,
+          709.846153846154
+        ],
+        [
+          2072.7692307692305,
+          1571.3846153846157
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "healthy_leaf",
+      "points": [
+        [
+          242.0,
+          2456.0
+        ],
+        [
+          1303.5384615384614,
+          3132.9230769230767
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "healthy_stem",
+      "points": [
+        [
+          2688.1538461538466,
+          9.846153846154067
+        ],
+        [
+          3295.8461538461543,
+          2163.6923076923076
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    }
+  ],
+  "imagePath": "IMG_7619.jpg",
+  "imageData": null,
+  "imageHeight": 5712,
+  "imageWidth": 4284
+}

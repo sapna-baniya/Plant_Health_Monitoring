@@ -1,0 +1,118 @@
+{
+  "version": "6.1.3",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "healthy_leaf",
+      "points": [
+        [
+          299.14285714285734,
+          1070.2857142857144
+        ],
+        [
+          2277.714285714286,
+          5113.142857142857
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "diseased_leaf",
+      "points": [
+        [
+          2213.428571428571,
+          2148.8571428571427
+        ],
+        [
+          3691.9999999999995,
+          5634.571428571428
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "diseased_leaf",
+      "points": [
+        [
+          2127.714285714286,
+          1984.5714285714287
+        ],
+        [
+          3199.1428571428573,
+          2841.7142857142853
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "healthy_leaf",
+      "points": [
+        [
+          4277.714285714286,
+          756.0000000000002
+        ],
+        [
+          3456.285714285714,
+          2034.5714285714287
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "healthy_leaf",
+      "points": [
+        [
+          2077.714285714286,
+          548.8571428571431
+        ],
+        [
+          3406.285714285714,
+          1456.0000000000002
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "diseased_leaf",
+      "points": [
+        [
+          1292.0,
+          5241.714285714285
+        ],
+        [
+          2004.344537815126,
+          5712.0
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    }
+  ],
+  "imagePath": "IMG_7579.jpg",
+  "imageData": null,
+  "imageHeight": 5712,
+  "imageWidth": 4284
+}
