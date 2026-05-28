@@ -1,0 +1,14 @@
+%%writefile .gitignore
+.git/
+.gradio/
+.idea/
+.ipynb_checkpoints/
+.venv/
+venv/
+__pycache__/
+*.pyc
+.env
+outputs/
+*.pth
+deliverables/
+*.zip
