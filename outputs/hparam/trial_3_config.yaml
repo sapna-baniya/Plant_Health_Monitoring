@@ -1,0 +1,34 @@
+augmentation:
+  brightness: 0.25
+  contrast: 0.25
+  horizontal_flip_prob: 0.5
+  hue: 0.05
+  saturation: 0.15
+class_names:
+- background
+- healthy_leaf
+- healthy_stem
+- diseased_leaf
+data:
+  test_annotations: data/annotations/test.json
+  test_images: data/images/test
+  train_annotations: data/annotations/train.json
+  train_images: data/images/train
+  val_annotations: data/annotations/val.json
+  val_images: data/images/val
+num_classes: 4
+project_name: plant_health_maskrcnn_3class
+training:
+  backbone_learning_rate: 5.0e-05
+  batch_size: 2
+  device: auto
+  early_stopping_patience: 5
+  epochs: 5
+  freeze_backbone_epochs: 3
+  image_size: 512
+  learning_rate: 0.001
+  momentum: 0.9
+  num_workers: 0
+  output_dir: outputs/hparam/trial_3
+  use_augmentation: true
+  weight_decay: 0.0001

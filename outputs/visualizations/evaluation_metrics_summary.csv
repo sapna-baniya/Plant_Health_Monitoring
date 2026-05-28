@@ -1,0 +1,4 @@
+Experiment,Mean IoU,Mean Dice,Inference Time (sec/image)
+Baseline before fine-tuning,0.0,0.0,0.47
+Fine-tuned threshold 0.05,0.1802,0.228,0.47
+Fine-tuned + NMS/TTA,0.1802,0.228,0.5

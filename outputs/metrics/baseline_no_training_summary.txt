@@ -1,0 +1,4 @@
+score_threshold: 0.05
+mean_iou: 0.06973794053619292
+mean_dice: 0.12118165516605164
+avg_inference_time: 0.5418358225571481

@@ -1,0 +1,5 @@
+trial,learning_rate,batch_size,weight_decay,best_val_loss,log_path
+1,0.001,1,0.0001,1.071712464094162,outputs/hparam/trial_1/training_log.csv
+2,0.001,1,0.0005,1.0989086314251548,outputs/hparam/trial_2/training_log.csv
+3,0.001,2,0.0001,1.1280578434467317,outputs/hparam/trial_3/training_log.csv
+4,0.001,2,0.0005,1.133970636129379,outputs/hparam/trial_4/training_log.csv
