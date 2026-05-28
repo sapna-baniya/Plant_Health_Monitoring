@@ -1,0 +1,22 @@
+project_name: plant_health_mini_unet_3class
+num_classes: 4
+class_names:
+  - background
+  - healthy_leaf
+  - healthy_stem
+  - diseased_leaf
+
+data:
+  train_images: data/images/train
+  val_images: data/images/val
+  train_annotations: data/annotations/train.json
+  val_annotations: data/annotations/val.json
+
+training:
+  image_size: 256
+  batch_size: 4
+  epochs: 20
+  learning_rate: 0.001
+  num_workers: 0
+  device: auto
+  output_dir: outputs/checkpoints
